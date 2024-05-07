@@ -45,7 +45,8 @@
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
-		<PackageReference Include="Xamarin.Firebase.iOS.Core" Version="8.10.0.3" />
+		<!-- <PackageReference Include="Xamarin.Firebase.iOS.Core" Version="8.10.0.3" /> -->
+		<PackageReference Include="Adame.Firebase.iOS.Core" Version="10.24.0" />
 	</ItemGroup>
 
 </Project>
